@@ -10,7 +10,7 @@ whisper = (string) => {
 
 whisper('HELLO WORLD')
 
-logShout(string) => {
+logShout = (string) => {
   console.log(string.toUpperCase())
 }
 
