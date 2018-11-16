@@ -4,13 +4,13 @@ function shout(string){
 
 shout('hello')
 
-whisper = (string) => {
+function whisper(string) {
   return string.toLowerCase()
 }
 
 whisper('HELLO WORLD')
 
-logShout = (string) => {
+function logShout(string) {
   string.toUpperCase()
 }
 
