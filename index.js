@@ -15,4 +15,4 @@ function logShout(string) {
   console.log(uppercase)
 }
 
-console.log('am i logging a shout')
+logShout('am i logging a shout')
