@@ -37,3 +37,5 @@ function sayHiToGrandma(string) {
 }
 
 sayHiToGrandma('can you hear me')
+sayHiToGrandma('CAN YOU HEAR ME')
+sayHiToGrandma('I love you')
