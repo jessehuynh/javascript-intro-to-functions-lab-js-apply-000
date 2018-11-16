@@ -11,7 +11,8 @@ function whisper(string) {
 whisper('HELLO WORLD')
 
 function logShout(string) {
-  string.toUpperCase()
+  let uppercase = string.toUpperCase()
+  console.log(uppercase)
 }
 
-console.log(logShout('am i yelling'))
+console.log('am i yelling')
