@@ -11,8 +11,7 @@ whisper = (string) => {
 whisper('HELLO WORLD')
 
 logShout = (string) => {
-  let uppercase = string.toUpperCase();
-  console.log(uppercase)
+  let uppercase = console.log(string.toUpperCase());
 }
 
 logShout('Am I yelling')
