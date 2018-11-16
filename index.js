@@ -16,3 +16,10 @@ function logShout(string) {
 }
 
 logShout('am i logging a shout')
+
+function logWhisper(string) {
+  let lowercase = string.toLowerCase()
+  console.log(lowercase)
+}
+
+logWhisper('AM I LOGGING A WHISPER')
