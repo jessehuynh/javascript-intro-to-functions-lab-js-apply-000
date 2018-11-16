@@ -3,3 +3,15 @@ function shout(string){
 }
 
 shout('hello')
+
+whisper = (string) => {
+  return string.toLowerCase()
+}
+
+whisper('HELLO WORLD')
+
+logShout(string) => {
+  console.log(string.toUpperCase())
+}
+
+logShout('Am I yelling')
